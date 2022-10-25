@@ -1,0 +1,19 @@
+{
+  "name": "b3-dw-serveur-chat",
+  "version": "1.0.0",
+  "description": "site web Kittens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " nodemon ./server.js localhost 3000  "
+  },
+  "keywords": [],
+  "author": "mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "require": "^2.4.20"
+  },
+  "type": "module"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Bob",
+    "image": "bob.jpg",
+    "age": 16,
+    "description": "super cat"
+  },
+  {
+    "id": 2,
+    "name": "Wild",
+    "image": "wild.jpg",
+    "age": 10,
+    "description": "super cat"
+  },
+  {
+    "id": 3,
+    "name": "Nyan",
+    "image": "nyan.jpg",
+    "age": 12,
+    "description": "super cat"
+  },
+  {
+    "id": 5,
+    "name": "OOO",
+    "image": "hhh.jpg",
+    "age": "6",
+    "description": "vieux chat"
+  },
+  {
+    "id": 6,
+    "name": "Benzema",
+    "image": "Benzema.jpg",
+    "age": "30",
+    "description": "Ballon d'or 2022"
+  }
+]

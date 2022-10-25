@@ -1,0 +1,10 @@
+<%- include('header') %>
+<div class="container">
+<% for (const cat of content) { %>
+    <div class="kitten">
+        <a href="/kitten/<%=cat.id%>"><%= cat.name %></a>
+        <img src="/images/<%=cat.image%>" />
+    </div>
+<% } %>
+</div>
+<%- include('footer') %>
